@@ -7,7 +7,7 @@
   <p align="center">
     My Portfolio
     <br />
-    <a href="https://charlytp2.github.io/charles_portfolio/">View Demo</a>
+    <a href="https://charlytp2.github.io/My_Microsoft_Portfolio/">View Demo</a>
   </p>
 </div>
 
@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Charles Akunaifa's Original Career Portfolio.
+My Microsoft Portfolio.
 <!-- GETTING STARTED -->
 
 ### How to run
